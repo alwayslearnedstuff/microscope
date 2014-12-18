@@ -1,0 +1,24 @@
+{
+  "isopack-1": {
+    "name": "mongo",
+    "summary": "Adaptor for using MongoDB and Minimongo over DDP",
+    "version": "1.0.9+d11ac86b9ce7f36422755fc8abb23892634bd5a2",
+    "earliestCompatibleVersion": "1.0.0",
+    "isTest": false,
+    "builds": [
+      {
+        "arch": "os",
+        "path": "os.json"
+      },
+      {
+        "arch": "web.browser",
+        "path": "web.browser.json"
+      },
+      {
+        "arch": "web.cordova",
+        "path": "web.cordova.json"
+      }
+    ],
+    "plugins": []
+  }
+}

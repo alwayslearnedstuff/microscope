@@ -1,0 +1,24 @@
+{
+  "isopack-1": {
+    "name": "mizzao:bootstrap-3",
+    "summary": "HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.",
+    "version": "3.3.1_1",
+    "earliestCompatibleVersion": "3.0.0",
+    "isTest": false,
+    "builds": [
+      {
+        "arch": "os",
+        "path": "os.json"
+      },
+      {
+        "arch": "web.browser",
+        "path": "web.browser.json"
+      },
+      {
+        "arch": "web.cordova",
+        "path": "web.cordova.json"
+      }
+    ],
+    "plugins": []
+  }
+}
